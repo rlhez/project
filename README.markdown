@@ -1,5 +1,5 @@
-# This is a superb project by Romain Lhez
+# This is a test project
 
-Another line.
+Hello world, just testing github trying to commit stuff etc
 
 All rights reserved - July 2013
